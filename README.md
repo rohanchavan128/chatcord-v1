@@ -1,2 +1,2 @@
 # chatcord-v1
- chating room
+ chating room App
